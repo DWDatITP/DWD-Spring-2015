@@ -1,7 +1,7 @@
-DWD - Spring 2014
+DWD - Spring 2015
 =================
 
-Dynamic Web Development @ ITP, Spring 2014
+Dynamic Web Development @ ITP, Spring 2015
 
 Instructors:
 

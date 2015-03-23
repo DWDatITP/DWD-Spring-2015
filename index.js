@@ -48,7 +48,7 @@ app.configure(function(){
 app.get('/', function(req, res) {
   res.render('index', {
       "pageTitle": "DWD at ITP",
-      "pageDescription": "Dynamic Web Development (Server) — Spring 2014",
+      "pageDescription": "Dynamic Web Development (Server) — Spring 2015",
       "sidebarTitle": "DWD @ ITP",
     }
   );
