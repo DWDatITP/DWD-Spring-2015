@@ -22,21 +22,10 @@ This app was built with [Express.js](http://expressjs.com/), and relies on the f
 
 Everything this app needs should be installable via npm:
 
-    npm install
-
+    `npm install`
 
 ### Running the application
 
-To start the app with npm/Nodemon (enabling fancy auto-reload action and all that), just run this:
-
-    npm start
-
-If you'd rather just run the server, you can 
-
-    node web.js
-
-To start the app with Nodemon by hand, do this instead:
-
-    ./node_modules/.bin/nodemon web.js
+    `node index.js`
 
 You should then be up and running! As with Node itself, you can quit the process with `ctrl-c`.
